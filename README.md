@@ -2,6 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logeshwaran0208" alt="logeshwaran0208" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.850477fed08bfe98598082bcd309ce70?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&ehk=Av8UkwZVPL9oYLkOuvSgL%2f8NuxOQe1PPuOPzjSs4TFo%3d">
 
 - 🌱 I’m currently learning **javascript**
 
