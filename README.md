@@ -1,10 +1,11 @@
+<img alt="wallpaper" src="https://www.bing.com/th/id/OGC.362324b3e93ade49c3e84af94df52218?pid=1.7&rurl=https%3a%2f%2fwww.charpeni.com%2fstatic%2fimages%2farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2fbanner.gif&ehk=wzoN4EeptXbsP8O8cSbjn1UGYbitr7zVF2CJLjapHCA%3d" width="100%" height="300">
 <h1 align="center">Hi 👋, I'm logeshwaran m</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logeshwaran0208" alt="logeshwaran0208" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.850477fed08bfe98598082bcd309ce70?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&ehk=Av8UkwZVPL9oYLkOuvSgL%2f8NuxOQe1PPuOPzjSs4TFo%3d">
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **...**
 
 - 📫 How to reach me **logeshwaran0208@gmail.com**
 
