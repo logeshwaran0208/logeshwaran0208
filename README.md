@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **logeshwaran0208@gmail.com**
 
+- <a href="https://logeshwaran-profile.netlify.app" target="blank">Portfolio web </a> :pushpin:
+
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
